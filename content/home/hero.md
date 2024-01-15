@@ -2,30 +2,20 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: Schwartz Geospatial Ecology Lab Wiki
+hero_media: NS_Lab_logo_white.png
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    image: WilliamsLake_droneshot.png
     text_color_light: true
 cta:
   url: docs/
   label: Get Started
   icon_pack: fas
-  icon: download
-cta_alt:
-  url: docs/
-  label: View Documentation
-cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
-      Project version will appear here<!-- Automatically filled based on data-repo value -->
-    </span>
+  icon: book
 ---
+<br>
 
-Published with the [Wowchemy Website Builder](https://hugoblox.com/) for Hugo.
+Explore the site to access the knowledge of past and current students, and to find tips for conducting remote sensing research in and outside of the lab. For members of the lab, you will have access to private documentation through GitHub, and if there are any issues please reach out to naomi.schwartz@ubc.ca
 
-Write something interesting about your project here.
-
-<a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+<br>

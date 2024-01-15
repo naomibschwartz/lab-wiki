@@ -1,0 +1,17 @@
+# Theme metadata
+name = "Forest"
+
+[light]
+  # Primary
+  primary = "#212e0e"
+
+  # Menu
+  menu_primary = "#212e0e"
+  menu_text = "#eaede8"
+  menu_text_active = "#97a58d"
+  menu_title = "#eaede8"
+
+  # Backgrounds
+  background = "#eaede8"
+  home_section_odd = "#eaede8"
+  home_section_even = "#eaede8"
