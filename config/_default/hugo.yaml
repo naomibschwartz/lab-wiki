@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Schwartz Lab Wiki' # Website name
-baseURL: 'https://kmcguire33.github.io/schwartz-wiki/' # Website URL
+baseURL: 'https://kmcguire33.github.io/schwartz-wiki' # Website URL
 
 ############################
 ## PAGE OPTIONS
