@@ -4,7 +4,7 @@ linktitle: Google Earth Engine
 type: book
 date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 5
 summary: >
   You can find information on how to work within Google Earth Engine within this page, where both general and specific resources are given.
 ---

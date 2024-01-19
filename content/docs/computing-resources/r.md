@@ -4,7 +4,7 @@ linktitle: R
 type: book
 date: '2019-05-05T00:00:00+01:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 5
+weight: 9
 summary: >
   R is a coding language used for its statistical computation abilities, but it can be used for a multitude of tasks - including data visualization which many of our lab members use it for. 
 ---
