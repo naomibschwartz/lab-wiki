@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/hugo-documentation-theme'
+    url: 'https://github.com/naomibschwartz/lab-wiki'
     content_dir: content
     branch: main
   feedback:
