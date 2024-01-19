@@ -16,6 +16,6 @@ cta:
 ---
 <br>
 
-Explore the site to access the knowledge of past and current students, and to find tips for conducting remote sensing research in and outside of the lab. For members of the lab, you will have access to private documentation through GitHub, and if there are any issues please reach out to naomi.schwartz@ubc.ca
+Explore the site to access the collected knowledge of past and current students, and to find tips for conducting research in and outside of the lab. Please note that much of the wiki is under construction. If there are any issues please reach out to naomi.schwartz@ubc.ca
 
 <br>
