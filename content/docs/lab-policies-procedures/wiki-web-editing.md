@@ -70,7 +70,7 @@ Removing an author is even simpler, all you have to do is delete the folder that
 ### Editing Research Page
 With the research page there is actually not as many moving parts as seen with the Authors, instead the entire page is hosted through one markdown file, with some photos being tied in from the assets folders.
 
-The way that this markdown is set up is through Blocks (extensive documentation can be found here: https://docs.hugoblox.com/getting-started/page-builder/), where each one represents a different research project within the lab.
+The way that this markdown is set up is through Blocks (extensive documentation can be found here: <ins>https://docs.hugoblox.com/getting-started/page-builder/</ins>), where each one represents a different research project within the lab.
 
 ### Add New Project
 To add a new project, you can simply copy and paste the format from another project, or you can write it from scratch using the template below – ensure that your new block begins with a dash and the block depicting what template you are using (typically you will just use a markdown format, but Hugo provides some pre-set templates which you can explore as well)
@@ -87,7 +87,7 @@ To add a new project, you can simply copy and paste the format from another proj
 Each project should have an id, which can just follow the same format as active-project-x or you can make it more descriptive if you’d like. The actual text uses markdown formatting, where some basic syntax can be found here: <ins>https://www.markdownguide.org/cheat-sheet/</ins>.
 
 Some features you may want to add within the Markdown block, could include:
--	*Adding a Relevant Publication*
+*Adding a Relevant Publication*
   - If the publication is featured within the Publication page on the website, it is actually fairly simple to add one – all you have to do is set up a hyperlink using markdown syntax using this format:
 
 ```
@@ -95,7 +95,7 @@ pub code here
 ```
   - You can see an example of this within the code under active-projects-3 (Impacts of Rainfall Seasonality on Tropical Forest Composition, Function, and Drought Response)
 
-- *Adding a Photo Album*
+*Adding a Photo Album*
   - If you have a collection of images from a project that you would like to feature underneath the relevant research, you can create a photo album which can be set up as a gallery. 
   - To get this to work you will have to leave the content page and enter the assets one, where you navigate to the media/albums folder. 
   - Within this album you should create a new folder pertaining to the research and insert the images you want preferably in .JPEG format
@@ -105,6 +105,7 @@ pub code here
 The past projects is set up a little differently than the current projects. Instead of having a separate section for each project, old projects are featured as drop-down menus, where you can move a project to this section by simply adding the text below to the past-projects markdown block:
 
 ```
+spoiler text here
 {{< spoiler text="PROJECT-TITLE/DESCRIPTION" >}}
 
         TEXT DESCRIBING PROJECT
@@ -133,7 +134,7 @@ pipx install academic OR pip3 install -U academic
 academic import [publication].bib content/publication/ --compact
 ```
 
-	**The --compact represents an argument used to layout the content from the Bibtex, to		  learn more see the guides provided above.*
+	*The --compact represents an argument used to layout the content from the Bibtex, to learn more see the guides provided above.
 
 4.	Once this action has been performed, you should see a new folder created in relation to the article you are importing
 5.	Within this new publication, you will see two files a cite.bib, which contains the original Bibtex citation, along with a index.md file which has converted this information into a readable markdown file for the website.
