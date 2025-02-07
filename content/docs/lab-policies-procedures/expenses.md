@@ -10,7 +10,7 @@ summary: >
 ---
 ## Expense Request Form
 Reimbursements for expenses paid our of pocket and departmental visa reconciliations are processed through the UBC Arts Service Centre. Access the expense request form using your CWL. <br>
-<ins>[Expense Request Form]([https://finance.air.arts.ubc.ca/submit-a-form/expense-request-form/])<ins> 
+<ins>[Expense Request Form](https://finance.air.arts.ubc.ca/submit-a-form/expense-request-form/)<ins> 
 
 ## Filling out the form
 Step 1. Specify the type of reimbursement you are requesting. 
