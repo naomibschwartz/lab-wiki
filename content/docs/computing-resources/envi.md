@@ -9,3 +9,6 @@ summary: >
   ENVI is a image processing and analysis software used by many GIS professions, especially our lab's remote sensors to analyse the satellite images coming into our lab.
 ---
 
+### Tutorials
+- <ins>[ENVI Tutorials](https://www.nv5geospatialsoftware.com/docs/Tutorials.html)</ins> (docs)
+- <ins>[ENVI full course using Landsat 8 images](https://www.youtube.com/playlist?list=PLJeebDESAF95V9wImFzojPThHmWqxXDy9)</ins> (videos)
