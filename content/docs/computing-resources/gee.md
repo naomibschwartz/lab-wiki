@@ -20,4 +20,9 @@ summary: >
 - <ins>[Filtering an image collection by a set of dates](https://developers.google.com/earth-engine/apidocs/ee-filter-date)</ins>
 - <ins>[Landsat and cloudmasking](https://developers.google.com/earth-engine/guides/landsat)</ins>
 - <ins>[Cloudmasking (landsat 8)](https://calekochenour.github.io/remote-sensing-textbook/03-beginner/chapter12-cloud-masking.html)</ins>
+- <ins>[Sentinel-2 Cloud Masking with s2cloudless](https://developers.google.com/earth-engine/tutorials/community/sentinel-2-s2cloudless?hl=en)</ins>
+- <ins>[Non-Parametric Trend Analysis](https://developers.google.com/earth-engine/tutorials/community/nonparametric-trends?hl=en)</ins>
+- <ins>[Extracting Raster Values for Points](https://developers.google.com/earth-engine/tutorials/community/extract-raster-values-for-points?hl=en)</ins>
 
+### Forum to ask GEE related questions
+- <ins>[GIS Stack Exchange](https://gis.stackexchange.com/questions/tagged/google-earth-engine)</ins>
