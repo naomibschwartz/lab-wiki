@@ -40,6 +40,7 @@ In my opinion, if you will be working with Git extensively, setting up SSH cloni
 Before cloning, ensure that you have changed your working directory to the folder where you wish to host your project, you can do this through the ‘cd’ command followed by your folder path.
 
 ### HTTPS CLONING
+#### MacOS or Linux
 If you are using a MacOS (or Linux) system it may be a good idea to install the Homebrew package, which will install many packages your system may be missing that are useful for Git and coding in general – this includes a Git Credential Manager.
 
 1.	You will need to first install homebrew using this command:
@@ -61,6 +62,12 @@ Brew install --cask git-credential-manager
 ```
 
 **For other systems Homebrew is incompatible so may need to look at other options*
+#### Windows
+1. Install GitHub CLI <ins>[here](https://github.com/cli/cli#installation)</ins>
+2. In the command line, enter ```gh auth login```, then follow the prompts.
+    - When prompted for your preferred protocol for Git operations, select ```HTTPS```.
+    - When asked if you would like to authenticate to Git with your GitHub credentials, enter ```Y```.
+
 
 Now that you should have your credentials set up, you should be able to move onto actually cloning a repository!
 

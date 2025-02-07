@@ -13,3 +13,5 @@ summary: >
 - <ins>[QGIS for Beginners](https://opensourceoptions.com/blog/qgis-tutorial-for-beginners/)</ins>
 - <ins>[QGIS Training Material](https://docs.qgis.org/3.28/en/docs/training_manual/index.html)</ins>
 
+### Helpful Plugins
+- <ins>[QuickMapServices](https://plugins.qgis.org/plugins/quick_map_services/)</ins>: Easy to add basemaps and geoservices.

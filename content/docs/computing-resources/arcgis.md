@@ -10,6 +10,9 @@ summary: >
 ---
 
 ### Tutorials
-- <ins>[ArcGIS Pro Intro for Beginners](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources
-)</ins>
+- <ins>[ArcGIS Pro Intro for Beginners](https://www.esri.com/en-us/arcgis/products/arcgis-pro/resources)</ins>
+- <ins>[Quick-start tutorials](https://mediaspace.esri.com/playlist/dedicated/238049152/1_y584wlrb/1_2dg7upzn)</ins>
+
+### Community
+- <ins>[ArcGIS Pro Community](https://community.esri.com/t5/arcgis-pro/ct-p/arcgis-pro)</ins>
 
