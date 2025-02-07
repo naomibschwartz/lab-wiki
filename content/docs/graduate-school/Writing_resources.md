@@ -3,7 +3,6 @@ title: Writing Resources
 link title: Writing Resources
 type: book
 date: '2025-02-07T00:00:00+01:00'
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 7
 summary: >
   Here you can find some useful resources for writing
