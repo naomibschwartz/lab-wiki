@@ -14,7 +14,7 @@ summary: >
 - All incoming graduate students (except those with appropriate funding in hand), are considered for Graduate Support Initiative funding upon their application to the program.
 - There is a <ins>[Graduate Student Travel Fund (GSTF)](https://geog.ubc.ca/graduate/funding/#gstf-details-18)</ins> that supports in-program students with conference and research travel expenses.
   
-## TASs
+## TAs
 - Teaching assistantships (TAs) support undergraduate education while offering graduate students teaching experience and financial support.
   
 ## UBC Specific
