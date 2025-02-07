@@ -9,14 +9,18 @@ summary: >
   This page discusses how to request reimbursements for expenses paid out of pocket, and how to reconcile expenses from a departmental visa card.
 ---
 ## Expense Request Form
-Reimbursements for expenses paid our of pocket and departmental visa reconciliations are processed through the UBC Arts Service Centre. Access the expense request form using your CWL. <br>
-<ins>[Expense Request Form](https://finance.air.arts.ubc.ca/submit-a-form/expense-request-form/)<ins> 
+Reimbursements for expenses paid our of pocket and departmental visa reconciliations are processed through the UBC Arts Service Centre. Access the [Expense Request Form](https://finance.air.arts.ubc.ca/submit-a-form/expense-request-form/)
+using your CWL. <br>
 
-## Filling out the form
-Step 1. Specify the type of reimbursement you are requesting. 
+For travel related expenses (ex. conferences, field work) use the [Travel Expense Submission Form](https://finance.air.arts.ubc.ca/submit-a-form/travel-expense-submission-form/). 
+Note that receipts are not required for meals per diem.
+
+## Filling out the expense request form
+Step 1. Specify the type of reimbursement you are requesting. If using the travel expense form, choose between expense claim, advance, or clearance.
   - Personal reimbursement: an expense that you paid using your own money (cash or card). Requires a receipt or proof of payment.
   - Direct payment to a vendor invoice: requires vendor name, invoice number, and a screenshot or pdf upload of the invoice itself.
-  - Credit card reconciliation: an expense that was paid using a departmental credit card. Requires a receipt.
+  - Credit card reconciliation: an expense that was paid using a departmental credit card. Requires a receipt. <br> 
+  
 
 Step 2. If you selected personal reimbursement or credit card reconcilitation, specify if the expense includes claims to Professional Development funds. This is only for faculty. 
 See more information at <ins>[Arts Funding Sources](https://finance.arts.ubc.ca/funding-resources/arts-funding-sources/)<ins>.
